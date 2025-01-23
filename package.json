@@ -1,0 +1,8 @@
+{
+  "name": "com.glass-vault-studio.demo.character.integration.ch4",
+  "version": "1.0.0",
+  "displayName": "Demo Character Integration CH4",
+  "description": "A demo package for character integration CH4.",
+  "unity": "2020.3",
+  "dependencies": {}
+}
